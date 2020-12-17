@@ -1,10 +1,7 @@
 // D3 Animated Scatter Plot
 // Section 1: Pre-Data Setup
 // ===========================
-// Before we code any data visualizations,
-// we need to at least set up the width, height and margins of the graph.
-// Note: I also added room for label text as well as text padding,
-// though not all graphs will need those specifications.
+
 // Grab the width of the containing box
 var width = parseInt(d3.select("#scatter").style("width"));
 // Designate the height of the graph
