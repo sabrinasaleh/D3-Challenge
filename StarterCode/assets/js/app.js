@@ -21,8 +21,7 @@ var svg = d3
   .attr("height", height)
   .attr("class", "chart");
 // Set the radius for each dot that will appear in the graph.
-// Note: Making this a function allows us to easily call
-// it in the mobility section of our code.
+// Note: Making this a function allows us to easily call it in the mobility section of our code.
 var circRadius;
 function crGet() {
   if (width <= 530) {
@@ -33,7 +32,9 @@ function crGet() {
   }
 }
 crGet();
-// The Labels for our Axes
+
+
+// The Labels for Axes
 // A) Bottom Axis
 // ==============
 // We create a group element to nest our bottom axes labels.
