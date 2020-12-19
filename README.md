@@ -43,6 +43,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 * Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
 ## Completed Tasks
+Link: http://127.0.0.1:5500/StarterCode/index.html
 
 * A set of interactive scatter plots are generated to display the correlations between state-by-state demographic data (poverty, age, and household income) and health risk factors (lack of healthcare, smokes, and obesity). Users can check the correlations between poverty vs. lack of healthcare or smokes or obesse. Similarly users can check the correlations between age vs. three health risk factors and the correlations between household income vs. three health risk factors.  
 
@@ -50,13 +51,13 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 * Analyses of the correlations between state-by-state demographic data and health risk factors are also appended with the dynamic scatter plots. Screen shots of the completed tasks are presented below. 
 
-### Screen Shot: Poverty vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
+#### Screen Shot: Poverty vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
 
-### Screen Shot: Age vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
+#### Screen Shot: Age vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
 
-### Screen Shot: Household Income vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
+#### Screen Shot: Household Income vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
 
-### Screen Shot: Correlation Analyses of Demographic Data vs. Health Risk Factors 
+#### Screen Shot: Correlation Analyses of Demographic Data vs. Health Risk Factors 
 
 
 
