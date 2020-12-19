@@ -1,5 +1,4 @@
 # **D3-Challenge - Data Journalism and D3**
-http://127.0.0.1:5500/StarterCode/index.html
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -44,7 +43,6 @@ While the ticks on the axes allow us to infer approximate values for each circle
 * Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
 ## Completed Tasks
-http://127.0.0.1:5500/StarterCode/index.html
 
 * A set of interactive scatter plots are generated to display the correlations between state-by-state demographic data (poverty, age, and household income) and health risk factors (lack of healthcare, smokes, and obesity). Users can check the correlations between poverty vs. lack of healthcare or smokes or obesse. Similarly users can check the correlations between age vs. three health risk factors and the correlations between household income vs. three health risk factors.  
 
