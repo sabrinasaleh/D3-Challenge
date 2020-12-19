@@ -54,6 +54,14 @@ http://127.0.0.1:5500/StarterCode/index.html
 
 #### Screen Shot: Poverty vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
 
+![poverty-1](ScreenShots/screen_poverty_1.PNG)
+
+![poverty-2](ScreenShots/screen_poverty_2.PNG)
+
+![poverty-3](ScreenShots/screen_poverty_3.PNG)
+
+![poverty-analysis](ScreenShots/screen_poverty.PNG)
+
 #### Screen Shot: Age vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
 
 #### Screen Shot: Household Income vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
