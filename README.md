@@ -72,7 +72,15 @@ http://127.0.0.1:5500/StarterCode/index.html
 
 ![age-analysis](ScreenShots/screen_age.PNG)
 
-#### Screen Shot: Household Income vs. Health Risk Factors (lack of healthcare, smokes, & obesse) 
+#### Screen Shot: Household Income vs. Health Risk Factors (lack of healthcare, smokes, & obesse)
+
+![income-1](ScreenShots/screen_income_1.PNG)
+
+![income-2](ScreenShots/screen_income_2.PNG)
+
+![income-3](ScreenShots/screen_income_3.PNG)
+
+![income-analysis](ScreenShots/screen_income.PNG)
 
 #### Screen Shot: Correlation Analyses of Demographic Data vs. Health Risk Factors 
 
